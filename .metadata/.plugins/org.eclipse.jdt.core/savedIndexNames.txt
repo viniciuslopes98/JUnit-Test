@@ -1,0 +1,19 @@
+INDEX VERSION 1.132+G:\projetos2\projetos2\TestesJUNIT\.metadata\.plugins\org.eclipse.jdt.core
+176906505.index
+2736526650.index
+3927496509.index
+1297445930.index
+2548968918.index
+1865797976.index
+3214032196.index
+1553343256.index
+52571649.index
+507103399.index
+2539397896.index
+641248166.index
+616695453.index
+734206574.index
+4120929768.index
+2368426023.index
+463490624.index
+3604435159.index

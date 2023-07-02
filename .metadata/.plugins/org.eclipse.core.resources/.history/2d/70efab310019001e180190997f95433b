@@ -1,0 +1,13 @@
+package teste;
+
+
+public class CalculadoraTest {
+
+ 
+	public void deveriaSomarDoisNumerosPositivos() {
+		Calculadora calc = new Calculadora();
+		int soma = calc.somar(3,7);
+		
+		
+	}
+}
